@@ -1,5 +1,37 @@
 # AetherNest Technical Architecture Specification
 
+## Table of Contents
+- [1. Technology Stack Selection](#1-technology-stack-selection)
+  - [Frontend Architecture](#frontend-architecture)
+  - [Backend Architecture](#backend-architecture)
+  - [Database Architecture](#database-architecture)
+  - [DevOps & Infrastructure](#devops--infrastructure)
+- [2. Security Architecture](#2-security-architecture)
+  - [Authentication & Authorization](#authentication--authorization)
+  - [Data Protection](#data-protection)
+- [3. Scalability Architecture](#3-scalability-architecture)
+  - [Horizontal Scaling](#horizontal-scaling)
+  - [Performance Optimization](#performance-optimization)
+- [4. System Components](#4-system-components)
+  - [Tournament System](#tournament-system)
+  - [Matchmaking System](#matchmaking-system)
+  - [Real-time Updates](#real-time-updates)
+- [5. Monitoring & Observability](#5-monitoring--observability)
+  - [Logging Strategy](#logging-strategy)
+  - [Monitoring Tools](#monitoring-tools)
+  - [Health Checks](#health-checks)
+- [6. Development Workflow](#6-development-workflow)
+  - [Code Quality](#code-quality)
+  - [Documentation](#documentation)
+- [7. Backup & Disaster Recovery](#7-backup--disaster-recovery)
+  - [Backup Strategy](#backup-strategy)
+  - [Disaster Recovery](#disaster-recovery)
+- [8. Integration Architecture](#8-integration-architecture)
+  - [Game Integration](#game-integration)
+  - [Payment Integration](#payment-integration)
+- [9. Performance Targets](#9-performance-targets)
+
+
 ## 1. Technology Stack Selection
 
 ### Frontend Architecture
