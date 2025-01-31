@@ -1,0 +1,1 @@
+# aethernest-technical-architecture-specification
